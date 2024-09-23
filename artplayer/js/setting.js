@@ -30,7 +30,7 @@ var fosi={
             type:fosi.type,
             title: config.title,   /*视频标题，目前会出现在视频截图和迷你模式下*/
             poster: config.background, /*视频的海报*/
-            volume: 1, /*声音默认0.7*/
+            volume: 0.3, /*声音默认0.7*/
             muted: false, /*是否默认静音*/
             autoplay: true, /*否自动播放*/
             flip: true,/*是否视频翻转*/
