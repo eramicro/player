@@ -34,7 +34,7 @@ function MPlayer(url,type,tittle,vkey,nexturl,contextmenu,contextlink,background
 	    autoOrientaion: true,
 	    dragSpotShape: dragSpotShape,
 	    lang: 'zh-cn',
-	    volume: '1',
+	    volume: '0.3',
 	    videoAttribute:[
 	        {attrKey:'webkit-playsinline',attrValue:'webkit-playsinline'},
 	        {attrKey:'playsinline',attrValue:'playsinline'},
